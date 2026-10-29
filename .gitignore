@@ -1,0 +1,40 @@
+# Unity-generated folders (recreated automatically when the project opens)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Keep .meta files for assets (Unity needs them to keep references working)
+!/[Aa]ssets/**/*.meta
+
+# IDE / editor files
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+sysinfo.txt
+
+# Build outputs
+*.apk
+*.aab
+*.app
+*.unitypackage
+crashlytics-build.properties
+*.slnx
+/.utmp/
